@@ -1,4 +1,4 @@
-# Alberti Dávid (BM848O) Web2 féléves beandadó
+# Alberti Dávid (BM848O) Web2 féléves beadandó
 
 A projekt, egy "To-do list" webalkalmazás, ami React segítségével készült egy kurzus során.
 
