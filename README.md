@@ -13,3 +13,6 @@ npm start
 
 Ez elindítja a webalkalmazást fejlesztési módban.
 Azt a http://localhost:3000 megnyitásával böngészőben is megtekinthetjük.
+
+![alt text](https://github.com/4lbertiD/todo/blob/master/web.png)
+
